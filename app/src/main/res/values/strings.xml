@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Time</string>
+    <string name="home">MOVIETIME</string>
+    <string name="photo_profile">Photo Profile</string>
+    <string name="cover_movie">Photo Cover Movie</string>
+    <string name="title_activity_detail">Detail Movie</string>
+    <string name="title_activity_about">About</string>
+    <string name="ic_about">about_page</string>
+    <string name="name">Muhammad Ardab Fillah</string>
+    <string name="email">ardabfillah777@gmail.com</string>
+</resources>
